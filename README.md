@@ -1,3 +1,5 @@
+Dependencies:
+  SDL2
 Usage:
 * to build : `make`
 * just play the song: `./MoozicC`
